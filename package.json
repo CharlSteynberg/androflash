@@ -1,0 +1,25 @@
+{
+  "name": "androflash",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "android flash tool",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "androflash",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlSteynberg/androflash.git"
+  },
+  "keywords": [
+    "android",
+    "recovery"
+  ],
+  "author": "Charl Steynberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlSteynberg/androflash/issues"
+  },
+  "homepage": "https://github.com/CharlSteynberg/androflash#readme"
+}
